@@ -46,6 +46,7 @@ GerDA (German Data Assistant) ist ein vollständig übersetzter EDDI-Personality
 - Hedda (österreichisches Deutsch)
 
 **Premium-Optionen:**
+- [Harpo](https://harposoftware.com/en/2-main/s-1/index/category-all) - NUANCE, Ivona
 - [Voxygen](https://voxygen.fr/) - Hochwertige TTS-Stimmen
 - [CereProc](https://www.cereproc.com/) - Professionelle Stimmen
 
@@ -106,14 +107,17 @@ GerDA verwendet die Cottle-Template-Sprache. Hier ein kurzes Beispiel:
 ## 👥 Credits
 
 **GerDA wurde entwickelt von:**
-- **CMDR Flitzipaldi (nepomuk16321)** - Hauptentwickler & Übersetzer
+- **CMDR Flitzipaldi/Johannes Kraut/Melli Beese (nepo)** - Übersetzer & teilweise Entwickler
 - **CMDR Homunk** - Motivation & Unterstützung
-- **CMDR Darkcyde** - Ideen aus dessen Personality
+- **CMDR Darkcyde** - Ideen aus dessen englischen Personality
+- **CMDR Melbar Kaasom** - Ideen aus dem SNP-Forum (https://forum.stellanebula.de/viewtopic.php?t=350)
+- **CMDR Gascoine** - Ideen aus dem SNP-Forum
+
 
 **Basierend auf EDDI von:**
-- T'kael (EDCD)
+- CMDR T'kael (EDCD)
 - CMDR VerticalBlank (EDCD)
-- Hoodathunk (EDCD) †
+- CMDR Hoodathunk (EDCD) †
 
 **Dank an:**
 - Die gesamte EDDI-Community
